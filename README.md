@@ -8,9 +8,7 @@ Anaconda - Python 3.7
 ## Algorithm:
 ### Step1:
 Import all the required packages.
-
 <br>
-
 
 ### Step2:
 Load the image to operate on.
