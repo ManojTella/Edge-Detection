@@ -85,6 +85,10 @@ plt.show()
 ```
 ## Output:
 ### Importing 
+![img1](https://user-images.githubusercontent.com/94883876/168624571-45525acd-f158-4c1d-8721-54f3d9ab0079.jpeg)
+![img2](https://user-images.githubusercontent.com/94883876/168624590-a983e3d5-d0e4-4b1f-bbac-d1787ef7be7e.jpeg)
+![img3](https://user-images.githubusercontent.com/94883876/168624614-5ae25df4-9859-4de1-aca0-4d38253d40b4.jpeg)
+
 <br>
 <br>
 <br>
@@ -94,6 +98,10 @@ plt.show()
 
 
 ### SOBEL EDGE DETECTOR
+![img4](https://user-images.githubusercontent.com/94883876/168624652-75706365-4eda-4a8a-9817-6ec5fd47e351.jpeg)
+![img5](https://user-images.githubusercontent.com/94883876/168624676-22c34a86-b7f9-4016-a81e-cc2a7f861ee7.jpeg)
+![img6](https://user-images.githubusercontent.com/94883876/168624815-3735408b-7192-4d73-9f67-895d965e6bb4.jpeg)
+
 
 <br>
 <br>
@@ -104,6 +112,9 @@ plt.show()
 
 
 ### LAPLACIAN EDGE DETECTOR
+![img7](https://user-images.githubusercontent.com/94883876/168624850-8f254477-b185-4a70-a9a0-c6af92da3852.jpeg)
+
+
 <br>
 <br>
 <br>
@@ -113,6 +124,8 @@ plt.show()
 
 
 ### CANNY EDGE DETECTOR
+![img8](https://user-images.githubusercontent.com/94883876/168624902-78160a95-a2dd-45a6-8815-31b58c8c9f45.jpeg)
+
 <br>
 <br>
 <br>
