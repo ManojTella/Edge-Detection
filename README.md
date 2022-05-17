@@ -37,13 +37,12 @@ End the program.
 
 
 ## Program:
-
-``` 
-## Developed By: Manoj Guna Sundar Tella.
-## Register Number: 212221240026.
+# Developed By: Manoj Guna Sundar Tella.
+# Register Number: 212221240026.
 <br>
 <br>
 
+```
 # Import the packages
 import cv2
 import matplotlib.pyplot as plt
